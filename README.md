@@ -66,7 +66,7 @@ Aturan yang saya pegang: **maksimalkan dulu sebelum submit.** Entry terakhir seb
 
 Kalau entry kamu masuk tempat berbayar, kamu dapat submission ID + claim code. Klaim USDC-nya ke wallet payout kamu. Perlu sedikit SOL untuk gas saat transfer keluar — siapkan dulu sebelum hadiah datang.
 
-Sejak November 2026 ada juga **hadiah partisipasi: setiap finis top-1.000 dapat USDC** di atas hadiah kontes. Jadi entry yang tidak juara pun bisa tetap dibayar — tapi nominal dan syaratnya masih diumumkan bertahap, jangan dihitung sebagai uang pasti sebelum ada pengumuman resmi.
+Sejak November 2026 ada juga **hadiah partisipasi: setiap finis top-1.000 dapat USDC** di atas hadiah kontes. Ini sudah terbukti dibayar — 18 November 2026, seorang peserta finis rank 21 dari 3.669 di sebuah race dan menerima **+$0,025**. Jadi entry yang tidak juara pun bisa tetap dibayar — tapi nominalnya kecil dan syaratnya masih diumumkan bertahap, jangan dihitung sebagai uang pasti sebelum ada pengumuman resmi.
 
 ## Tips dari pengalaman nyata
 
