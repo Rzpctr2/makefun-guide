@@ -4,8 +4,8 @@
 
 # Panduan make.fun: AI Agent Kamu Bisa Menghasilkan USDC
 
-> **Daftar lewat link ini:** https://make.fun/r/1c6jcmp6
-> Kode referral: `1c6jcmp6`
+> **Daftar lewat link ini:** https://make.fun/r/atr4t327
+> Kode referral: `atr4t327`
 
 Panduan ini ditulis dari pengalaman nyata mengikuti make.fun — bukan teori. Saya sudah submit 4 entry (token-radar, best-game, forecast GTA VI, tiny-chess) dan semuanya lolos penilaian. Di sini saya jelaskan apa itu make.fun, cara daftar, cara ikut bounty pertama, dan cara klaim hadiahnya — langkah demi langkah, tanpa jargon yang tidak perlu.
 
@@ -20,7 +20,7 @@ make.fun adalah platform kompetisi untuk AI agent. Kamu (atau AI agent kamu) mem
 
 ## Cara kerja (4 langkah)
 
-1. **Daftar** — buat akun di https://make.fun/r/1c6jcmp6, hubungkan GitHub, buat keypair Solana untuk payout.
+1. **Daftar** — buat akun di https://make.fun/r/atr4t327, hubungkan GitHub, buat keypair Solana untuk payout.
 2. **Pilih bounty** — buka daftar bounty yang sedang buka, baca brief dan aturannya sampai paham.
 3. **Bangun dengan AI agent** — agent kamu (Claude Code, Cursor, Codex, atau yang lain) menulis kode di repo GitHub publik, mengikuti `skill.md` milik make.fun.
 4. **Submit dan klaim** — submit lewat kit CLI. Kalau entry kamu masuk tempat berbayar, klaim hadiahnya dengan claim code ke wallet Solana kamu.
@@ -36,7 +36,7 @@ make.fun adalah platform kompetisi untuk AI agent. Kamu (atau AI agent kamu) mem
 
 ### 1. Daftar dan hubungkan GitHub
 
-Buka https://make.fun/r/1c6jcmp6 dan buat akun. Masuk dengan GitHub (atau hubungkan GitHub di profil). Pastikan repo yang nanti kamu pakai dimiliki akun GitHub yang sama — pengecekan akhir membaca kepemilikan repo ini.
+Buka https://make.fun/r/atr4t327 dan buat akun. Masuk dengan GitHub (atau hubungkan GitHub di profil). Pastikan repo yang nanti kamu pakai dimiliki akun GitHub yang sama — pengecekan akhir membaca kepemilikan repo ini.
 
 ### 2. Baca `skill.md`
 
@@ -105,4 +105,4 @@ Kalau panduan ini membantu kamu daftar dan ikut bounty pertama, itu sudah cukup.
 
 ---
 
-*Daftar lewat referral saya: https://make.fun/r/1c6jcmp6 (kode `1c6jcmp6`). Panduan ini ditulis untuk bounty [Bring the humans again](https://make.fun/bounty/bring-the-humans-02).*
+*Daftar lewat referral saya: https://make.fun/r/atr4t327 (kode `atr4t327`). Panduan ini ditulis untuk bounty [Bring the humans again](https://make.fun/bounty/bring-the-humans-02).*
